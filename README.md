@@ -27,12 +27,12 @@ The app meets the following requirements:
 
 ### Screenshot
 
-![App Screenshot](./public/screenshot.png)
+[App Screenshot](./public/screenshot.png)
 
 ### Links
 
-- GitHub Repository: [Insert your GitHub link here](https://github.com/YOUR-USERNAME/YOUR-REPO-NAME)
-- Live Demo: [Insert your live demo URL here (e.g., GitHub Pages, Vercel, Netlify)](https://YOUR-LIVE-DEMO.vercel.app)
+- GitHub Repository: [devfinder](https://github.com/srenV/devfinder)
+- Live Demo: [vercel)](https://YOUR-LIVE-DEMO.vercel.app)
 
 ## My process
 
@@ -50,4 +50,4 @@ Through this project, I successfully deepened my understanding of interacting wi
 ## Author
 
 - GitHub - [@srenV](https://github.com/srenV)
-- Frontend Mentor - [@srenV](https://www.frontendmentor.io/profile/srenV)# devfinder
+- Frontend Mentor - [@srenV](https://www.frontendmentor.io/profile/srenV)
