@@ -44,12 +44,18 @@ const AppProvider = ({ children }) => {
 
   /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
+  const [searched, setSearched] = useState(false)
+
+
+
   const value = {
     theme,
     setTheme,
     setUser,
     userData,
     user,
+    setSearched,
+    searched,
   };
 
   return <AppContext.Provider value={value}>{children}</AppContext.Provider>;

@@ -4,11 +4,17 @@ import AppContext from "../context/AppContext";
 
 const FinderInput = () => {
   const [user, setUser] = useState("");
-  const { userData } = useContext(AppContext);
+  const { userData, setSearched } = useContext(AppContext);
 
-  const handleSubmit = (e) => {
+  const handleSubmit = async (e) => {
     e.preventDefault();
-    userData(user);
+    if (!user.trim()) return;
+    try {
+      await userData(user);
+      setSearched(true)
+    }catch(error){
+    console.error("Fehler beim Laden des Users:", error)
+    }
   };
 
   return (

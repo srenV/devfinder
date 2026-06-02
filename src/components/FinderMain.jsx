@@ -12,6 +12,7 @@ const FinderMain = () => {
 
   return (
     <div className="w-full  h-full mx-auto flex flex-row gap-2 dark:bg-[#1f2a48] bg-white p-6 rounded-2xl shadow-lg relative transition-colors">
+      
       {user ? (
         <div className="lg:flex-row flex-col gap-6 flex w-full h-full">
           <div className="shrink-0 lg:block hidden">
