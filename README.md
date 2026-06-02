@@ -1,4 +1,4 @@
-# Frontend Mentor - GitHub User Search App
+# devfinder - GitHub User Search App
 
 This is my solution to the [GitHub User Search App challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/github-user-search-app-Q09YOgaH6).
 
@@ -22,7 +22,6 @@ The app meets the following requirements:
 - See hover states for all interactive elements on the page.
 - Search for GitHub users by their username.
 - See relevant GitHub profile information when a valid search is performed.
-- See a "No results" error message if no user is found.
 - Switch between light and dark themes (Light/Dark Mode).
 
 ### Screenshot
