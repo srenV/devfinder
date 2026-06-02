@@ -27,12 +27,12 @@ The app meets the following requirements:
 
 ### Screenshot
 
-[App Screenshot](./public/screenshot.png)
+![App Screenshot](./public/screenshot.png)
 
 ### Links
 
 - GitHub Repository: [devfinder](https://github.com/srenV/devfinder)
-- Live Demo: [vercel)](https://YOUR-LIVE-DEMO.vercel.app)
+- Live Demo: [vercel)](https://devfinder-five-phi.vercel.app/)
 
 ## My process
 
